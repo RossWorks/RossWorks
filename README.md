@@ -16,18 +16,16 @@ I'm keen on Air navigations systems and love to bring more and more aeronautics 
 
 
 ### What I'm familiar with:<br>
-<img src="Icons/git.png"     alt="git"     width="45"/>
-<img src="Icons/python.png"  alt="Python"  width="45"/>
+<img src="Icons/git.png"     alt="git"     width="45"/> <img src="Icons/python.png"  alt="Python"  width="45"/>
 <img src="Icons/NumPy.png"   alt="NumPy"   width="45"/>
 <img src="Icons/C.png"       alt="C"       width="45"/>
 <img src="Icons/Cpp.png"     alt="Cpp"     width="45"/>
-<img src="Icons/Arduino.png" alt="Arduino" width="45"/><br>
+<img src="Icons/Arduino.png" alt="Arduino" width="45"/>
 RTOS, Ada, ARINC 429
 
 
 ### What I'm currenlty learning:<br>
-<img src="Icons/MariaDB.png" alt="MariaDB" width="45"/>
-<img src="Icons/GTK.png"     alt="GTK"     width="45"/>
+<img src="Icons/MariaDB.png" alt="MariaDB" width="45"/> <img src="Icons/GTK.png"     alt="GTK"     width="45"/>
 
 <!--
 **RossWorks/RossWorks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
