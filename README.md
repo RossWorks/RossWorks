@@ -1,4 +1,33 @@
-### Hi there 👋
+### Hello there, I'm Marco👋
+
+I'm keen on Air navigations systems and love to bring more and more aeronautics in my GitHub!<br>
+
+
+
+### Some of my work:
+
+
+|||
+|-|-|
+|[Geodesic calculations](https://github.com/RossWorks/Geodesy)<br>A small tool to compute distances and bearings| [Air Navigation System](https://github.com/RossWorks/PyGama)<br>A complete air navigation suite with flight plan visualization capabilities|
+|[Navigation databases](https://github.com/RossWorks/NAV-DB)<br>A tool to generate navigation databases|[ARINC 429](https://github.com/RossWorks/ARINC429)<br>Understand how an ARINC429 frame is made|
+|[Wheather station](https://github.com/RossWorks/AutoLightHouse)<br>Wheather data collection along with GPS clock||
+|||
+
+
+### What I'm familiar with:<br>
+<img src="Icons/git.png"     alt="git"     width="45"/>
+<img src="Icons/python.png"  alt="Python"  width="45"/>
+<img src="Icons/NumPy.png"   alt="NumPy"   width="45"/>
+<img src="Icons/C.png"       alt="C"       width="45"/>
+<img src="Icons/Cpp.png"     alt="Cpp"     width="45"/>
+<img src="Icons/Arduino.png" alt="Arduino" width="45"/><br>
+RTOS, Ada, ARINC 429
+
+
+### What I'm currenlty learning:<br>
+<img src="Icons/MariaDB.png" alt="MariaDB" width="45"/>
+<img src="Icons/GTK.png"     alt="GTK"     width="45"/>
 
 <!--
 **RossWorks/RossWorks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
